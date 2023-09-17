@@ -13,10 +13,6 @@ Este repositório contém uma aplicação que utiliza inteligência artificial p
 - JavaScript
 - Prisma
 
-## Descrição
-
-A aplicação NLW-AI é uma ferramenta poderosa para criadores de conteúdo que desejam economizar tempo na criação de títulos e descrições cativantes para seus vídeos. A inteligência artificial é usada para analisar o conteúdo do vídeo e gerar sugestões de títulos e descrições relevantes, ajudando os criadores a atrair mais espectadores e melhorar a descoberta de seus vídeos.
-
 ## Funcionalidades Principais
 
 - **Geração de Títulos e Descrições**: A aplicação é capaz de gerar automaticamente títulos criativos e descrições envolventes com base no conteúdo do vídeo.
